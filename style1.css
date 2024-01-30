@@ -1,0 +1,13 @@
+li:hover{
+    background-color: burlywood;
+}
+body{
+ background-image:url("https://tse3.mm.bing.net/th?id=OIP.dITb-Wu2shmpK1gk4yHFAQHaEK&pid=Api&P=0&h=180");
+background-repeat: no-repeat;
+background-size: cover;
+}
+img{
+    width:70px;
+    height:60px;
+    margin-right:30px;
+}
